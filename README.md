@@ -24,4 +24,4 @@ using simxSetJointTargetVelocity function.
 Finally, when the robot reaches the final waypoint, the velocity
 vector is updated to zero and the power to the wheel actuators are cut.
 
-//// remoteApi files are not added which are responsible of remotely connecting MATLAB and CoppeliaSim ////
+//// remoteApi files are not added which are necessary for the connection of MATLAB and CoppeliaSim ////
