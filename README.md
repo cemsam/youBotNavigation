@@ -1,4 +1,4 @@
-# YouBotNavigation
+# youBotNavigation
 KUKA YouBot navigation using PRM algorithm on MATLAB - CoppeliaSim
 
 Binary occupancy map method is used to generate a map of the
